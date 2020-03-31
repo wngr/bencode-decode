@@ -1,0 +1,10 @@
+[package]
+name = "bencode-decode"
+version = "0.1.0"
+authors = ["wngr <oliver@wngr.de>"]
+edition = "2018"
+license = "WTFPL"
+repository = "https://github.com/wngr/bencode-decode"
+description = "Minimal, lean, no-bullshit, iterator-based bencode decoder."
+
+[dependencies]
